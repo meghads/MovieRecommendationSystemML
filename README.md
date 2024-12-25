@@ -52,7 +52,7 @@ This project implements a **content-based** and **popular-based recommendation s
    - Navigate to the project directory in your terminal or IDE.
    - Execute the script with the command:
      ```bash
-     python movie_recommendation_system.py
+     python MovieRecommendation.py
      ```
 
 4. **Enter Your Favorite Movie**:
